@@ -19,7 +19,7 @@
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "@typescript-eslint/parser": "^2.33.0",
     "aws-cdk": "^1.38.0",
-    "aws-sdk": "^2.677.0",
+    "aws-sdk": "^2.814.0",
     "eslint": "^7.0.0",
     "jest": "^25.5.0",
     "ts-jest": "^25.3.1",
